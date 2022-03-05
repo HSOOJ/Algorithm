@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class Main_BJ_17413_단어뒤집기2_0829 {
+public class S3_Main_BJ_17413_단어뒤집기2_0829 {
 	
 	static StringBuilder sb;
 	static Stack<Character> stack;

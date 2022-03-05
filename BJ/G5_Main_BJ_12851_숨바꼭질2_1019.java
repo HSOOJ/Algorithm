@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 메모리 1022384KB
 // 시간 864ms
 
-public class Main_BJ_12851_숨바꼭질2_1019 {
+public class G5_Main_BJ_12851_숨바꼭질2_1019 {
 
 	static int N, K, minT, res;
 	static boolean arr[];
