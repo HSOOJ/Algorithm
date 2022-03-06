@@ -52,7 +52,7 @@ public class S1_Main_BJ_16928_뱀과사다리게임_0306 {
 				res = c;
 				return;
 			}
-			
+			 
 			// 주사위 돌리기
 			for (int j = 1; j <= 6; j++) {
 				int next = p + j;
