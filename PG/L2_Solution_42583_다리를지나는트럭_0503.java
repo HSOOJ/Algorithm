@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class L2_Solution_42583_다리를지나는트럭_0503 {
     public int solution(int bridge_length, int weight, int[] truck_weights) {
         int answer = 0;
 

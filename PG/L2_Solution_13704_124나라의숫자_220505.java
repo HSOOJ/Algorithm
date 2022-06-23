@@ -1,4 +1,4 @@
-class Solution {
+class L2_Solution_13704_124나라의숫자_220505 {
     public String solution(int n) {
         String answer = "";
         StringBuilder sb = new StringBuilder();

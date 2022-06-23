@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class L2_Solution_49993_스킬트리_220508 {
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
 

@@ -1,4 +1,4 @@
-class Solution {
+class L2_Solution_62048_멀쩡한사각형_220504 {
     public long solution(int w, int h) {
         long answer = 1;
         long max = 0;

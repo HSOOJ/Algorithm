@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class L2_Solution_12939_최댓값과최솟값_220502 {
     public String solution(String s) {
         StringTokenizer st = new StringTokenizer(s);
         int max = Integer.MIN_VALUE;

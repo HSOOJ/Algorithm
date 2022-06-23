@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class L2_Solution_42888_오픈채팅방_220507 {
     public String[] solution(String[] record) {
         
         HashMap<String, String> name = new HashMap<>(); // 아이디-이름 저장
